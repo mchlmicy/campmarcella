@@ -1,0 +1,144 @@
+body					{	margin: 0px;
+							background-color: #eaeaea;
+						}
+						
+#banner					{	background-image: none;
+							background-size: 100% 100%;
+							background-color: #ffffff;
+							height: 400px;
+							width: 100%;
+						}
+
+#bannerlogo				{	background-image: url('../../images/campmarcella_logo.png');
+							background-size: 100% 100%;
+							display: inline-block;
+							background-color: #d1e1ed;
+							height: 400px;
+							width: 400px;		
+						}
+				
+#bannertext				{	display: inline-block;
+							position: absolute;
+							font-size: 125px;
+							padding-top: 122.5px;
+							padding-left: 30px;					
+						}
+			
+#switchform				{	display: inline-block;
+							position: absolute;
+							padding-top: 30px;
+							right: 0px;
+							width: 400px;					
+						}
+						
+#form-item				{	font-size: 32px;
+						}
+				
+#navigationbar			{	display: inline-block;
+							height: 50px;
+							width: 100%;
+							background: #a6c6de; 
+						}
+						
+.navigation_container	{	position: relative;
+							left: 400px;							
+						}
+				
+.navigation_link		{	position: relative;
+							font-size: 42px;
+							padding: 2px 30px;							
+							text-shadow: 2px 2px 2px #555555;
+							top: 2px;
+						}
+									
+.navigation_link:hover	{	background-color: #8cbade;
+						}
+						
+#tab_nav					{	background-color: #82adcf;
+								float: left;
+								width: 400px;
+							}
+				
+.tab_nav-item				{	border-bottom: 2px solid #a6c6de;
+								font-size: 48px;
+								height: 72px;
+								margin: 0px;
+								padding-left: 30px;						
+								text-shadow: 1px 1px 1px #555555; 
+							}
+
+.tab_nav-item_select		{	background-color: #6096bf;
+								border-bottom: 2px solid #a6c6de;
+								font-size: 48px;
+								height: 72px;
+								margin: 0px;
+								padding-left: 30px;							
+								text-shadow: 1px 1px 1px #555555; 
+							}
+						
+.tab_nav-item:hover			{	background-color: #6096bf;
+							}
+						
+#content					{	background-color: eaeaea;
+								position: relative;
+								margin-left: 400px;
+								width: auto;
+							}
+						
+#entry						{	border-bottom: 1px solid #aaaaaa;
+								border-left: 1px solid #aaaaaa;
+								border-right: 1px solid #aaaaaa;
+								margin-bottom: 15px;
+							}
+						
+#entry_header				{	color: #ffffff;
+								text-shadow: 1px 1px 1px #555555; 
+								background-color: #6096bf;
+								height: 54px;
+								width: 100%;
+								font-size: 36px;	
+							}	
+						
+.entry_header_text			{	padding-left: 30px;
+								padding-top: 6px;
+							}
+						
+#entry_content				{	background-color: #ffffff;
+								font-size: 24px;
+								padding: 30px;
+								text-align: justify;							
+							}
+
+#button					{	font-size: 18px;
+						}
+						
+a:link 						{	color: #536980;
+							}
+						
+a:visited 					{	color: #536980;
+							}
+						
+a:hover 						{	color: #536980;
+							}
+						
+a:active 					{	color: #536980;
+							}
+
+a.nav:link 					{	color: #ffffff;
+								text-decoration: none;
+							}
+						
+a.nav:visited 				{	color: #ffffff;
+								text-decoration: none;
+							}
+						
+a.nav:hover 					{	color: #ffffff;
+								text-decoration: none;
+							}
+						
+a.nav:active 				{	color: #ffffff;
+								text-decoration: none
+							}	
+						
+table					{	font-size: 24px;
+						}

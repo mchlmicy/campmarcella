@@ -1,0 +1,171 @@
+body						{	margin: 0px;
+								background-color: #eaeaea;
+							}
+							
+.notice						{	background-color: #c0c0c0;
+								overflow: auto;
+								width: 100%;
+							}
+														
+.notice_container			{	display: block;
+								list-style: none;
+								margin: 0px;
+								padding-left: 15px;
+								width: 15000px;
+							}
+							
+.notice_text				{	color: #000000;
+								display: block;
+								float: left;
+								font-size: 48px;
+								padding: 10px 0px;
+								text-shadow: 1px 1px 1px #c5c1aa;
+							}
+						
+#banner						{	background-image: url('../../images/splitrock_reservoir_highcontrast.jpg');
+								background-size: 100% 100%;
+								background-color: #ffffff;
+								height: 400px;
+								width: 100%;
+							}
+
+.banner_logo				{	display: inline-block;
+								background-image: url('../../images/campmarcella_logo@2x_highcontrast.png');
+								background-size: 100% 100%;
+								background-color: #ededed;
+								height: 400px;
+								width: 400px;		
+							}
+				
+.banner_text				{	display: inline-block;
+								font-size: 128px;
+								padding-top: 136px;
+								padding-left: 30px;
+								position: absolute;
+								text-shadow: 1px 1px 1px #555555;
+							}
+			
+#switchform					{	display: inline-block;
+								padding-top: 30px;
+								position: absolute;
+								right: 0px;
+								width: 400px;					
+							}
+				
+#form-item					{	font-size: 32px;
+							}
+						
+#navigationbar				{	display: inline-block;
+								background: #dedede; 
+								height: 42px;
+								width: 100%;							
+							}
+						
+#tab_nav					{	background-color: #cfcfcf;
+								float: left;
+								width: 400px;
+							}
+				
+.tab_nav-item				{	border-bottom: 2px solid #dedede;
+								font-size: 48px;
+								height: 72px;
+								margin: 0px;
+								padding-left: 30px;						
+								text-shadow: 1px 1px 1px #555555; 
+							}
+
+.tab_nav-item_select		{	background-color: #bfbfbf;
+								border-bottom: 2px solid #dedede;
+								font-size: 48px;
+								height: 72px;
+								margin: 0px;
+								padding-left: 30px;							
+								text-shadow: 1px 1px 1px #555555; 
+							}
+						
+.tab_nav-item:hover			{	background-color: #bfbfbf;
+							}
+							
+#content-top				{	background-color: #eaeaea;
+								width: auto;
+							}
+					
+#slideshow_container		{	background-color: #dedede;
+								position: relative;
+								margin-left: 400px;
+								width: auto;							
+							}
+						
+.fluid_container			{	margin: auto; 
+								max-width: 1000px; 
+								width: 100%;	
+							}
+							
+.caption					{	font-size: 24px;
+							}
+				
+#content					{	background-color: #eaeaea;
+								position: relative;
+								margin-left: 400px;
+								width: auto;
+							}
+						
+#entry						{	border-bottom: 1px solid #aaaaaa;
+								border-left: 1px solid #aaaaaa;
+								border-right: 1px solid #aaaaaa;
+								margin-bottom: 15px;
+							}
+						
+#entry_header				{	color: #212121;
+								text-shadow: 1px 1px 1px #555555; 
+								background-color: #bfbfbf;
+								height: 54px;
+								width: 100%;
+								font-size: 36px;	
+							}		
+						
+.entry_header_text			{	padding-left: 30px;
+								padding-top: 6px;
+							}
+						
+#entry_content				{	background-color: #ffffff;
+								font-size: 24px;
+								padding: 30px;
+								text-align: justify;							
+							}
+							
+a:link 						{	color: #535353;
+							}
+						
+a:visited 					{	color: #535353;
+							}
+						
+a:hover 						{	color: #535353;
+							}
+						
+a:active 					{	color: #535353;
+							}
+
+a.nav:link 					{	color: #212121;
+								text-decoration: none;
+							}
+						
+a.nav:visited 				{	color: #212121;
+								text-decoration: none;
+							}
+						
+a.nav:hover 					{	color: #212121;
+								text-decoration: none;
+							}
+						
+a.nav:active 				{	color: #212121;
+								text-decoration: none
+							}						
+						
+::-moz-selection			{	background-color: #ffffff;
+								color: #000000;
+							}
+
+::-selection				{	background-color: #ffffff;
+								color: #000000;
+							}
